@@ -20,10 +20,34 @@ background-attachment: fixed;
   font-size:20px;
   color:#C6A15B;
   text-shadow:2px 2px 4px #F0DFAE;
+  background:linear-gradient(
+    90deg,
+    #8C6728 0%, 
+    #B58A45 20%, 
+    #D4AF6A 40%, 
+    #FFF1C2 55%, 
+    #F2D995 70%, 
+    #B58A45 88%, 
+    #8C6728 100%
+  );
+  background-clip: text;
+-webkit-background-clip: text;
 }
 .main{
   font-size:50px;
   color:#B58A45;
   text-shadow:3px 3px 6px #E8D39B;
+   background:linear-gradient(
+    90deg,
+    #8C6728 0%, 
+    #B58A45 20%, 
+    #D4AF6A 40%, 
+    #FFF1C2 55%, 
+    #F2D995 70%, 
+    #B58A45 88%, 
+    #8C6728 100%
+  );
+  background-clip: text;
+-webkit-background-clip: text;
 }
 }
