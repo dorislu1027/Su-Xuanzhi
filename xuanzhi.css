@@ -16,9 +16,9 @@ background: linear-gradient(
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
+}
 .intro{
   font-size:20px;
-  color:#C6A15B;
   text-shadow:2px 2px 4px #F0DFAE;
   background:linear-gradient(
     90deg,
@@ -31,11 +31,12 @@ background-attachment: fixed;
     #8C6728 100%
   );
   background-clip: text;
--webkit-background-clip: text;
+  -webkit-background-clip: text;
+  color:transparent;
+
 }
 .main{
   font-size:50px;
-  color:#B58A45;
   text-shadow:3px 3px 6px #E8D39B;
    background:linear-gradient(
     90deg,
@@ -48,6 +49,6 @@ background-attachment: fixed;
     #8C6728 100%
   );
   background-clip: text;
--webkit-background-clip: text;
-}
+  -webkit-background-clip: text;
+  color:transparent;
 }
