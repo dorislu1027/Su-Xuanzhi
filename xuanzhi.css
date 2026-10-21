@@ -1,0 +1,14 @@
+body{
+  background-color:linear-gradient(
+    120deg, 
+    #72CFF2 0%, 
+    #82D8F5 10%, 
+    #9AE2F8 22%, 
+    #B1EAFB 34%, 
+    #C5F0FC 46%,
+    #D8F6FE 58%, 
+    #E8FAFF 70%, 
+    #F3FCFF 82%, 
+    #FFFFFF 100%
+  )
+}
