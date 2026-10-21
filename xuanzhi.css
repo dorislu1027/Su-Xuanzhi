@@ -16,4 +16,12 @@ background: linear-gradient(
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
+.intro{
+  font-size:20px;
+  color:#C6A15B;
+}
+.main{
+  font-size:50px;
+  color:#B58A45;
+}
 }
