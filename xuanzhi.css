@@ -19,9 +19,11 @@ background-attachment: fixed;
 .intro{
   font-size:20px;
   color:#C6A15B;
+  text-shadow:2px 2px 4px #F0DFAE;
 }
 .main{
   font-size:50px;
   color:#B58A45;
+  text-shadow:3px 3px 6px #E8D39B;
 }
 }
