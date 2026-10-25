@@ -19,7 +19,6 @@ background-attachment: fixed;
 }
 .intro{
   font-size:20px;
-  text-shadow:2px 2px 4px #F0DFAE;
   background:linear-gradient(
     90deg,
     #8C6728 0%, 
@@ -37,7 +36,6 @@ background-attachment: fixed;
 }
 .main{
   font-size:50px;
-  text-shadow:3px 3px 6px #E8D39B;
    background:linear-gradient(
     90deg,
     #8C6728 0%, 
