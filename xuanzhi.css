@@ -3,22 +3,10 @@ margin: 0;
 min-height: 100vh;
 background: linear-gradient(
 90deg,
-#72CFF2,
-#82D8F5,
-#9AE2F8,
-#B1EAFB,
-#C5F0FC,
-#D8F6FE,
-#E8FAFF,
-#F5FDFF,
-#FFFFFF,
-#FFFEF7,
-#FFF8E6,
-#F9EBC5,
-#F3DFA0,
-#E8CB72,
-#D8B454,
-#C6A04A
+#DDF7FF,  
+#A8DDF2,
+#FFF1C9,
+#F5FDFF
 );
 background-repeat: no-repeat;
 background-size: cover;
